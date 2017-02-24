@@ -1,0 +1,11 @@
+Package: com.imohit.DoodleArmy2
+Name: Doodle Army 2 : Mini Militia Cheats
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Doodle Army 2 : Mini Militia Cheats by iMohit
+Maintainer: iMohit
+Author: iMohit
+Section: Tweaks
+Homepage: https://imohit.github.io
+Version: 3.0.75
+Installed-Size: 636
